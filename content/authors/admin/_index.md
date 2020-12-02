@@ -64,6 +64,12 @@ highlight_name: false
 user_groups:
 - Researchers
 - Visitors
+
+# change the background color and associated text
+background:
+  color: 'navy'
+  # Text color (true=light or false=dark).
+  text_color_light: true
 ---
 
 Shaun Cross is a CIHMID postdoctoral fellow at Cornell University (https://cihmid.cornell.edu/). He is advised by Drs. John Parker and Iwijn De Vlaminck. His research focuses on elucidating rotavirus-host interactions (in vivo) using single-cell RNAseq and spatial transcriptomics. He completed his graduate work under the direction of Dr. Mark Stenglein studying virome constituents in medically relevant arthropods: Drosophila melanogaster (fruit fly), Ixodes scapularis (deer tick), and Aedes aegypti (yellow fever mosquito).
