@@ -44,9 +44,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=FVUZCNgAAAAJ&view_op=list_works&gmla=AJsN-F5kFDQfv8jHH12kyZVEvoWXTa8-KVFOvZGY3VRZjFK49mrRBxZnKdpoSa85acpFuBcPrxIUNYkDVWSxU69loh5ZDK6Gg66tDgUc2-WJ7JuwcPKBc1Dl2VqBHygGXNY5ZIJF8agZ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/scross92
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/scross92
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Shaun Cross is a CIHMID postdoctoral fellow (https://cihmid.cornell.edu/) at Cornell University. He is advised by Drs. John Parker and Iwijn De Vlaminck. His research focuses on elucidating rotavirus-host interactions (in vivo) using single-cell RNAseq and spatial transcriptomics. He completed his graduate work under the direction of Dr. Mark Stenglein studying virome constituents in medically relevant arthropods: Drosophila melanogaster (fruit fly), Ixodes scapularis (deer tick), and Aedes aegypti (yellow fever mosquito).
+Shaun Cross is a CIHMID postdoctoral fellow at Cornell University (https://cihmid.cornell.edu/). He is advised by Drs. John Parker and Iwijn De Vlaminck. His research focuses on elucidating rotavirus-host interactions (in vivo) using single-cell RNAseq and spatial transcriptomics. He completed his graduate work under the direction of Dr. Mark Stenglein studying virome constituents in medically relevant arthropods: Drosophila melanogaster (fruit fly), Ixodes scapularis (deer tick), and Aedes aegypti (yellow fever mosquito).
